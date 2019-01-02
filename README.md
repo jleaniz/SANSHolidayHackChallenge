@@ -9,6 +9,7 @@ The directories are structured as follows:
  - Keys: Cryptographic key material related to the challenge (pub/priv, etc).
  - PCAP: Packet captures related to the challenge.
 
+Special thanks to Katherine Pelesz for her help in solving Challenges 7 and 8.
 
 License
 ----
